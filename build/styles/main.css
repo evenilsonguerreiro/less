@@ -10,7 +10,7 @@
 body {
   background-color: #273c75;
   color: #f5f6fa;
-  padding-top: 20px;
+  padding-top: 60px;
 }
 li {
   list-style: none;
@@ -81,7 +81,7 @@ header .profile-avatar {
   text-decoration: none;
   background-color: #00a8ff;
   display: block;
-  padding: 8px;
+  padding: 8px 20px;
   margin-bottom: 10px;
   text-align: center;
   color: #f5f6fa;
