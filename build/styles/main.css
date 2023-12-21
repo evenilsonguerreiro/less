@@ -20,6 +20,9 @@ li {
   width: 100%;
   margin: 0 auto;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 @media (max-width:767px) {
   .container {
@@ -78,8 +81,8 @@ header .profile-avatar {
   text-decoration: none;
   background-color: #00a8ff;
   display: block;
-  padding: 16px 20px;
-  margin-bottom: 16px;
+  padding: 8px;
+  margin-bottom: 10px;
   text-align: center;
   color: #f5f6fa;
   border-radius: 30px;
